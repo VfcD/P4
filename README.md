@@ -13,8 +13,10 @@
     umount /mnt/boot
     umount /mnt
 
+### SD-Karte Wechseln!
 
-https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3
+
+### https://archlinuxarm.org/platforms/armv8/broadcom/raspberry-pi-3
 
 Schritt 1 und 2 ausführen
 
