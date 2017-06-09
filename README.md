@@ -33,3 +33,6 @@ Schritt 4
     rsync -avz ~/ArchBackup/ /mnt
     umount /mnt/boot
     umount /mnt
+    
+    
+ # Fertig!
